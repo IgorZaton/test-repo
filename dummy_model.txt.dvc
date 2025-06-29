@@ -1,0 +1,5 @@
+outs:
+- md5: 0118a7c3f8a95a3752d141edce74afca
+  size: 25
+  hash: md5
+  path: dummy_model.txt

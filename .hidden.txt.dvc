@@ -1,0 +1,5 @@
+outs:
+- md5: 52eaf68fadf470e9c993efb54a26ba35
+  size: 7
+  hash: md5
+  path: .hidden.txt
