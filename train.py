@@ -1,2 +1,1 @@
 print('Training...')
-print('dirty')
